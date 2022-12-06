@@ -15,3 +15,5 @@ Below shows the decision boundary made by logistic regression implementation.
 And finally we have the change in cost with completion of each epoch.
 
 ![Screenshot from 2019-07-22 02-12-44](https://user-images.githubusercontent.com/31368133/61596845-3df96500-ac26-11e9-94a2-a3bb29b4b22a.png)
+
+## For improvement
